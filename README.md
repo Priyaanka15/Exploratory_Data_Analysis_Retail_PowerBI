@@ -33,6 +33,9 @@
 
 •	 Used Map visual to indicate how profit varies through each state in the United States.
 
+# Dashboard
+
+![Task3 dashboard](https://github.com/Priyanka1321/Exploratory_Data_Analysis_Retail_PowerBI/assets/164537891/0959c8bf-b6d7-416e-96f3-929955a83c9b)
 
 # Some Important Insights from the Dashboard
 
